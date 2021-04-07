@@ -22,3 +22,10 @@ This essentially adds in the camera from the aces sky coaster to all coasters, T
 # Installing
 Easier than ever, simply drag the ACSE folder containing Main.ovl and Manifest.xml into your PlanetCoaster/Win64/ovldata folder alongside the contentpacks. This enables the mod loader.
 To install Mods, do the same. Drag the folders into the ovldata folder alongside ACSE and other contentpacks.
+
+Once it's installed it should look like this!
+![image](https://i.imgur.com/elGWefo.png)
+
+(awesome_testbed are my development files, and are not necessary)
+
+Once it's installed you should see "ACSE Loaded" under the Planet Coaster logo in the Menu.
