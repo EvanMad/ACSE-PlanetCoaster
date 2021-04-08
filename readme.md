@@ -20,7 +20,7 @@ These are designed to make 1m/2m/4m method easier and faster to do
 This was also previewed in a previous update, and removed the wobbly camera effect that was pre programmed into the game's coasters.
 This essentially adds in the camera from the aces sky coaster to all coasters, Thanks again to Theme Park Wirral for discovering this feature which has allowed me to impliment it into a mod.
 
-![video](https://imgur.com/11EE2k8)
+![image](https://imgur.com/11EE2k8)
 
 ## Installing
 Easier than ever, simply drag the ACSE folder containing Main.ovl and Manifest.xml into your PlanetCoaster/Win64/ovldata folder alongside the contentpacks. This enables the mod loader.
