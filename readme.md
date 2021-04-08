@@ -2,23 +2,25 @@
 ![image](https://i.imgur.com/sFlxB4G.png)
 This is specifically a port of [ASCE](https://github.com/OpenNaja/ACSE) originally developed for JWE by OpenNaja.
 
-ACSE is a new method of modding planet coaster, initially created for Jurassic World Evolution by the OpenNaja team, I ported it to work with Planet Coaster.
-It's essentially a mod loader that opens wide modding possabilities for developers, and makes installing easier for end users.
+ACSE is an **unofficial** mod loader for Planet Coaster, giving developers access to the game's APIs, aswell as a much easier method for installation of mods.
+
 It's important to note ACSE is not a replacement for the old mod manager, but rather a seperate method, I eventually hope to port over all mods to this new method, but more development time is needed until then, for now this functions as an alpha release, which will hopefully be expanded upon with a proper mod manager at some point.
 ACSE is specifically a code loader, but I will generally refer to "ACSE mods" as anything that uses a new content pack to load in mods.
 
 ## SmoothingMod+
 The much anticipated smoothing mod changes the functionality of the old smoothing buttons to have 4 new options
-* Smooth
-* Smooth Forward
-* Smooth Backward
-* Smooth Burst
+* Smooth - Standard Smooth All
+* Smooth Forward - Smooths and moves the selection forward 1
+* Smooth Backward - Smooths and moves the selection backwards 1
+* Smooth Burst - Does what it says on the tin
 
-I hope these are self-explanatory as they have been demo'd in previous videos
+These are designed to make 1m/2m/4m method easier and faster to do
 
 ## SmootherCameraMod
 This was also previewed in a previous update, and removed the wobbly camera effect that was pre programmed into the game's coasters.
 This essentially adds in the camera from the aces sky coaster to all coasters, Thanks again to Theme Park Wirral for discovering this feature which has allowed me to impliment it into a mod.
+
+![video](https://imgur.com/11EE2k8)
 
 ## Installing
 Easier than ever, simply drag the ACSE folder containing Main.ovl and Manifest.xml into your PlanetCoaster/Win64/ovldata folder alongside the contentpacks. This enables the mod loader.
